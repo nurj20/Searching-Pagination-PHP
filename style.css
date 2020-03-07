@@ -1,0 +1,25 @@
+ul li {
+    padding-right: 20px;
+}
+
+a {
+    color: black;
+}
+
+li a {
+    color: black;
+}
+
+li a:hover {
+    color: yellow;
+}
+
+a:hover {
+    color: yellow;
+}
+
+h1 {
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
